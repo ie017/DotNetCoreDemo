@@ -1,0 +1,14 @@
+<!-- Les fichiers cshtml sont des fichiers qui sont basées sur le 
+moteur de template Razor-->
+<!-- Razor permet d'utiliser le code C# et html au meme temps et ça pour pouvoir générer un rendu html du coté du 
+serveur comme thymleaf en spring boot et jsp en jee-->
+<h3>My Object View is running</h3>
+<ul>
+    @foreach(var element in Model)
+    {
+        <li>@element.Id</li>
+        <li>@element.Name</li>
+        <li>@element.Email</li>
+        <li>@element.Score</li>
+    }
+</ul>

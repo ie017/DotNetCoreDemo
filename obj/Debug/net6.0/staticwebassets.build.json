@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Bd5EYTj1BwtcHS3ThM3R1Gzm7Vdp7Cc5ay4MMcDgnxw=",
+  "Source": "DotNetCoreDemo",
+  "BasePath": "_content/DotNetCoreDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DotNetCoreDemo\\wwwroot",
+      "Source": "DotNetCoreDemo",
+      "ContentRoot": "C:\\Users\\ie\\Desktop\\DotNetCoreDemo\\wwwroot\\",
+      "BasePath": "_content/DotNetCoreDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ie\\Desktop\\DotNetCoreDemo\\wwwroot\\index.html",
+      "SourceId": "DotNetCoreDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ie\\Desktop\\DotNetCoreDemo\\wwwroot\\",
+      "BasePath": "_content/DotNetCoreDemo",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
